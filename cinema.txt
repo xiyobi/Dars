@@ -1,0 +1,1000 @@
+1,Farmer's Wife The,Comedy,2013,3 Milwaukee Park,22:06
+2,Cimarron,Drama|Western,1992,45915 David Junction,21:59
+3,A True Mob Story,(no genres listed),1997,898 Hazelcrest Point,0:19
+4,Band Called Death A,Documentary,2007,59 Graceland Avenue,21:51
+5,14 Hours (Fourteen Hours),Drama|Film-Noir|Thriller,2001,9 Sherman Drive,22:01
+6,I Walked with a Zombie,Drama|Horror,2010,5 Esker Alley,10:13
+7,Resurrecting the Champ,Drama,2007,91 Loftsgordon Parkway,21:55
+8,The Boy Who Cried Werewolf,Children|Horror,1992,24 Mesta Road,10:07
+9,Flicker (Flimmer),Comedy|Drama,2002,892 Linden Terrace,4:16
+10,Distinguished Gentleman The,Comedy,1995,2439 Bultman Point,4:51
+11,Don,Action|Crime|Musical,1996,8158 Bluestem Place,2:20
+12,Bedrooms & Hallways,Comedy|Romance,1997,12565 Shelley Street,20:50
+13,Santa Claus,Children|Fantasy,2008,71644 Coolidge Circle,9:21
+14,Murder Inc.,Crime|Drama,1994,532 Daystar Alley,15:13
+15,Forgotten The,Drama|Mystery|Sci-Fi|Thriller,1993,511 Gina Hill,22:41
+16,Songcatcher,Drama,2006,77503 Duke Drive,1:21
+17,Black Swan,Drama|Thriller,1999,098 Schmedeman Terrace,5:04
+18,Welcome to the Punch,Action|Adventure|Crime|Thriller,2012,4 Bultman Parkway,3:59
+19,Sandor slash Ida,Drama|Romance,1989,7 Dennis Junction,1:19
+20,Soup to Nuts,Comedy|Romance,2008,484 Southridge Center,19:16
+21,Duo (Pas de deux),Animation|Musical,1994,67537 Corry Street,23:45
+22,The Sea That Thinks,(no genres listed),2007,144 Dahle Pass,13:57
+23,Rain or Shine,Comedy|Drama|Romance,1990,1 Amoth Park,23:26
+24,Kira's Reason: A Love Story (En Kærlighedshistorie),Drama,2012,15544 Bluestem Hill,5:55
+25,Panic in Year Zero!,Horror|Sci-Fi|Thriller,2011,2715 Northfield Park,22:20
+26,Brooklyn Castle,Documentary,2012,8 Milwaukee Pass,0:09
+27,My Mother Likes Women (A mi madre le gustan las mujeres),Comedy,1998,8422 Farwell Parkway,15:03
+28,8 Mile,Drama,1992,05 Green Ridge Alley,3:18
+29,Monday Night Mayhem,Drama,1996,0 Oak Point,21:52
+30,Extracted,Drama|Sci-Fi,2001,0229 North Place,19:30
+31,Daleks' Invasion Earth: 2150 A.D.,Adventure|Sci-Fi,2001,293 Bonner Center,13:35
+32,Superdad,Comedy,2006,2241 Talisman Road,12:54
+33,Whirlygirl,Drama|Romance,2005,48 Gateway Court,7:07
+34,Phaedra,Drama,2003,39 Onsgard Alley,20:26
+35,MGS: Philanthropy,Action|Adventure|Sci-Fi|War,2003,819 Thompson Alley,15:25
+36,Skulls The,Thriller,1989,54 Ridge Oak Junction,17:51
+37,Taste of Honey A,Drama,1997,8 Lawn Circle,1:09
+38,How Green Was My Valley,Drama|Musical|Romance,1999,268 Dovetail Court,15:43
+39,Ambushers The,Comedy|Sci-Fi|Thriller,2003,4 Declaration Way,16:04
+40,Thirteen The (Trinadtsat),Adventure|War,2006,6 Hayes Terrace,16:52
+41,Beast at Bay A,Drama,1998,167 Sheridan Circle,0:42
+42,End The,Comedy,1998,936 Marcy Point,8:45
+43,In the Loop,Comedy,2006,21 Parkside Point,16:30
+44,Sorcerer's Apprentice The,Action|Adventure|Children|Comedy|Fantasy,1998,9503 Mccormick Crossing,9:11
+45,Trapped Ashes,Horror,2008,09 Monument Pass,12:45
+46,Hills Have Eyes The,Horror,1998,22 Clarendon Road,4:50
+47,Love and Death,Comedy,1994,442 Moose Terrace,14:32
+48,Definitely Maybe,Comedy|Drama|Romance,2009,3914 Harper Court,2:52
+49,Charlie Brown's Christmas Tales,Animation|Children|Comedy,1967,094 Spenser Park,21:38
+50,Mighty Heart A,Drama|Thriller,1984,5540 Sommers Way,21:16
+51,Crazy Love,Documentary,2002,85726 Monica Parkway,11:27
+52,The Cobbler,Comedy|Drama|Fantasy,1997,15356 Burrows Pass,4:44
+53,Went the Day Well?,Thriller|War,2008,4 Jay Parkway,7:12
+54,Primal Fear,Crime|Drama|Mystery|Thriller,1996,312 Elka Trail,9:56
+55,Breaking the Silence: Truth and Lies in the War on Terror,Documentary,2011,0728 Pond Lane,23:24
+56,Out On A Limb,Comedy,1968,3305 Melby Alley,0:28
+57,Coffy,Action|Crime|Thriller,1959,877 David Point,0:34
+58,Color of Money The,Drama,1972,806 Fieldstone Terrace,18:08
+59,Green Chair (Noksaek uija),Drama|Romance,1993,5 1st Place,8:48
+60,Wonderful Crook The (Pas si méchant que ça),Crime|Drama|Romance,1994,8986 Heath Street,7:01
+61,Breathless,Thriller,2002,2 Eagan Way,18:10
+62,13 Frightened Girls! (Candy Web The),Adventure|Comedy|Thriller,1999,374 Beilfuss Avenue,12:36
+63,13 Assassins (Jûsan-nin no shikaku),Action,2007,1440 Brown Street,11:05
+64,Savages,Crime|Drama|Thriller,1989,32625 Manufacturers Crossing,18:54
+65,Smoke,Comedy|Drama,1984,81567 Oxford Terrace,8:04
+66,Batman: Assault on Arkham,Action|Animation|Crime|Thriller,2003,32640 Northland Avenue,16:08
+67,Double Take,Documentary,1988,163 Everett Lane,5:29
+68,Perfect Host The,Crime|Drama|Thriller,2004,17 Sherman Street,20:01
+69,Carolina,Comedy|Romance,1988,959 Merry Terrace,12:11
+70,Great White Hype The,Comedy,1970,8 Oneill Pass,10:39
+71,Butcher Boys (Bone Boys),Action|Comedy|Horror|Thriller,1985,0966 Barnett Pass,0:45
+72,Bob & Carol & Ted & Alice,Comedy|Drama,2003,9840 Alpine Circle,17:40
+73,Dealin' with Idiots,Comedy,1996,71087 Nevada Hill,3:08
+74,Edvard Munch,Drama,2000,6047 Spaight Street,14:18
+75,Baby On Board,Comedy,1999,2306 Dryden Hill,4:38
+76,Paycheck,Action|Sci-Fi|Thriller,1994,013 Vidon Trail,14:59
+77,Blow-Up (Blowup),Drama|Mystery,1994,72030 Warbler Trail,22:04
+78,Leap Year,Comedy|Romance,2004,481 Atwood Junction,10:57
+79,Homeboy,Drama|Romance,1960,66725 Barby Center,12:20
+80,Messiah of Evil,Horror,2000,85 Eastwood Street,10:41
+81,Texas Carnival,Comedy|Musical,1993,97 Eagle Crest Pass,17:35
+82,California,Romance|Western,2008,934 Sundown Hill,23:13
+83,Kisses for My President,Comedy,2008,5667 Carey Way,3:13
+84,Not Suitable for Children,Comedy|Romance,2012,22 Spohn Way,0:36
+85,Sun Alley (Sonnenallee),Comedy|Romance,2009,6304 Onsgard Lane,0:49
+86,I'll Sleep When I'm Dead,Crime|Drama,2003,04983 Hansons Drive,4:52
+87,Neighbors,Comedy,2007,09088 Sugar Way,20:19
+88,Son of Paleface,Action|Comedy|Romance|Western,2002,1911 Continental Center,3:05
+89,Companeros (Vamos a matar compañeros),Comedy|Western,1985,390 Ridgeview Court,10:32
+90,On the Double ,Comedy|War,1997,2 Ruskin Park,14:56
+91,Killing Room The,Drama|Mystery|Thriller,2001,0 Grasskamp Place,0:42
+92,Prata Palomares,Horror|Thriller,2006,7 Annamark Terrace,12:21
+93,Fitzcarraldo,Adventure|Drama,2004,8 Hayes Place,14:13
+94,Stage Door,Drama,1986,731 Shopko Junction,18:14
+95,The Fool,Drama,1998,3998 Clarendon Junction,9:41
+96,Concert Le,Comedy|Drama,1997,2192 Bartillon Crossing,10:54
+97,Another Man's Poison,Crime|Drama,1965,81 Hoepker Crossing,5:22
+98,Harry Potter and the Prisoner of Azkaban,Adventure|Fantasy|IMAX,2008,53608 Marcy Park,14:00
+99,Return of Doctor X The,Horror|Mystery|Sci-Fi|Thriller,1986,2544 Sloan Point,16:08
+100,Good Boy!,Children|Comedy|Sci-Fi,2012,714 Killdeer Parkway,15:36
+101,Spider Forest (Geomi sup),Drama|Horror|Mystery|Thriller,1997,718 Gateway Circle,0:40
+102,Darjeeling Limited The,Adventure|Comedy|Drama,2010,6754 Harper Crossing,14:58
+103,Billion Dollar Brain,Drama|Thriller,1994,96514 Manitowish Terrace,20:08
+104,Baghban,Drama|Romance,1997,7 Hooker Drive,11:10
+105,Att stjäla en tjuv,Comedy,2010,28533 Buena Vista Circle,1:40
+106,Justice League: Crisis on Two Earths,Action|Animation|Sci-Fi,2010,39 Havey Pass,12:10
+107,Trouble at Timpetill (Enfants de Timpelbach Les),Adventure|Children|Fantasy,2012,74 Milwaukee Road,9:55
+108,Love the Hard Way,Crime|Drama|Romance,2000,2 Stoughton Hill,15:23
+109,Hidden (a.k.a. Cache) (Caché),Drama|Mystery|Thriller,1999,342 Sheridan Trail,4:31
+110,Spawn,Action|Adventure|Sci-Fi|Thriller,1994,7 Welch Terrace,2:36
+111,Pride and Prejudice,Comedy|Drama|Romance,1958,48668 7th Drive,17:39
+112,Minuscule: Valley of the Lost Ants (Minuscule - La vallée des fourmis perdues),Adventure|Animation|Children,2002,148 Jana Drive,0:27
+113,Forced to Kill,Action,2012,54 Green Ridge Plaza,3:23
+114,Stone,Drama|Thriller,1997,4419 Waubesa Circle,11:28
+115,Glass House The,Drama,1998,352 Declaration Court,2:12
+116,Pépé le Moko,Crime|Drama|Romance,1996,16 Larry Parkway,10:23
+117,Today You Die,Action|Crime,2001,15374 Pond Park,16:16
+118,The Emperor's Club,Drama,1988,900 Corben Center,4:01
+119,Breath (Soom),Drama,2004,41 Holmberg Center,18:45
+120,Wonderful Crook The (Pas si méchant que ça),Crime|Drama|Romance,2000,78038 Kinsman Point,20:52
+121,Friends of God: A Road Trip with Alexandra Pelosi,Documentary,2004,3830 Larry Street,22:35
+122,Wittgenstein,Comedy|Drama,1996,1324 Vera Terrace,6:30
+123,In the Fog (V tumane),Drama|War,2000,75197 Autumn Leaf Alley,2:56
+124,Tabu: A Story of the South Seas,Drama|Romance,1993,91 Ohio Park,16:18
+125,Liberal Arts,Comedy|Drama,1999,195 Schlimgen Point,7:33
+126,Drums Along the Mohawk,Adventure|War|Western,1992,20782 Schurz Drive,8:17
+127,Koran by Heart,Documentary,2004,57 Vernon Circle,0:58
+128,Double Jeopardy,Action|Crime|Drama|Thriller,2001,3 Killdeer Center,6:56
+129,You've Got Mail,Comedy|Romance,2005,2560 Longview Alley,18:54
+130,Thief The (Vor),Drama,1996,912 Maywood Way,16:51
+131,Sketches of Frank Gehry,Documentary,2009,10 Carioca Trail,21:18
+132,ABC Africa,Documentary,1998,0127 Pine View Plaza,6:40
+133,Rudderless,Comedy|Drama,2002,93 Clyde Gallagher Plaza,6:37
+134,General The,Comedy|War,2008,846 Bowman Junction,13:11
+135,Luminarias,Comedy|Romance,2001,4 Dexter Pass,20:51
+136,Doc of the Dead,Documentary,2009,4 Sommers Terrace,2:26
+137,Tarantella,Drama,2001,242 Milwaukee Circle,22:20
+138,Applause (Applaus),Drama,1961,6 Iowa Crossing,18:10
+139,Bartleby,Comedy|Drama,2008,3538 Donald Street,9:01
+140,Real Cancun The,Documentary,2008,3 Buhler Circle,3:30
+141,Fighting Temptations The,Drama,1998,49813 Crescent Oaks Street,13:22
+142,Story of G.I. Joe,War,1995,514 Farwell Circle,5:14
+143,Our Daily Bread (Unser täglich Brot),Documentary,2011,837 Browning Terrace,3:40
+144,Libre échange,Comedy,2011,99 Green Ridge Park,9:21
+145,Animal The,Comedy,1987,57645 Dunning Lane,23:27
+146,Enemy of the People An (Ganashatru),Drama,2010,0208 Hauk Trail,5:23
+147,Botany of Desire The,Documentary,2012,858 Moose Way,14:11
+148,Back Door to Hell,Drama|War,2004,78 Manufacturers Crossing,5:41
+149,Evil Under the Sun,Crime|Drama|Mystery,2004,90920 Blue Bill Park Hill,9:08
+150,9/11,Documentary,2009,26239 Grim Street,8:12
+151,Journey of August King The,Drama,1997,1102 Boyd Pass,22:22
+152,Love Bug The,Children|Comedy,1985,73 Killdeer Court,23:44
+153,Skidoo,Comedy,2002,39047 Jay Plaza,5:53
+154,Forbidden City Cop (Dai lap mat tam 008),Action|Comedy,2009,266 Fallview Lane,21:43
+155,Violette (Violette Nozière),Crime|Drama|Thriller,1995,4240 Kedzie Circle,12:03
+156,Tracey Fragments The,Drama,2011,7290 Welch Drive,23:28
+157,Kicking and Screaming,Comedy|Drama,2002,11372 Graedel Terrace,1:44
+158,Alice,Drama,1997,3 Division Parkway,10:30
+159,Breaking Point,Action|Crime|Drama|Thriller,2012,53985 Commercial Hill,11:56
+160,Silverado,Action|Western,2009,142 Maple Terrace,11:41
+161,Misérables Les,Drama|Musical|Romance|IMAX,1990,5 Arkansas Point,16:00
+162,Twelve,Crime|Drama|Thriller,1997,754 Laurel Point,22:52
+163,Thoroughbreds Don't Cry,Comedy|Drama,2002,30 Mallard Court,18:09
+164,Woman Thou Art Loosed,Drama,1979,33089 International Point,0:45
+165,Trouble Man,Action|Crime|Drama,2001,7273 Di Loreto Center,17:43
+166,Nobody Will Speak of Us When We're Dead (Nadie hablará de nosotras cuando hayamos muerto),Drama,1999,82428 Corscot Drive,15:12
+167,9/11,Documentary,1985,347 Bultman Crossing,16:00
+168,Likeable Mister R The (Simpaticul domn R),Action|Crime|Thriller,2011,37 Nova Point,6:51
+169,My Big Fat Greek Wedding,Comedy|Romance,1994,7846 Harper Center,3:36
+170,Trash Humpers,Drama,2009,6 Doe Crossing Circle,0:22
+171,Holidays by the Sea (Ni à vendre ni à louer),Comedy,2003,2948 Lyons Hill,11:21
+172,Hothead (Coup de tête),Comedy|Drama,2009,0445 Hooker Alley,4:51
+173,Bunch Of Amateurs A,Comedy,2000,91740 Center Drive,12:27
+174,Normal Life,Crime|Drama|Romance,2002,54609 Rigney Center,19:34
+175,Tumannost Andromedy,Adventure|Romance|Sci-Fi,2009,75766 Moland Place,11:19
+176,Young & Beautiful,Drama,1996,0721 Westerfield Center,8:48
+177,Paris Belongs to Us (Paris nous appartient),Mystery,1984,8 Veith Terrace,11:55
+178,Shooter,Action|Drama|Thriller,2012,680 Corben Parkway,14:37
+179,Stopped on Track,Drama,2008,8128 Dennis Hill,10:36
+180,American Beauty,Comedy|Drama,1985,18427 Forest Way,8:03
+181,Samoure,Drama,1997,3 Tomscot Pass,6:29
+182,Beneath the Harvest Sky,Drama,2013,7 Badeau Way,6:46
+183,Kisses,Drama,2012,3913 Fuller Plaza,6:25
+184,Hypnotist The (Hypnotisören),Thriller,1998,46 Vernon Terrace,12:20
+185,Memories of Murder (Salinui chueok),Crime|Drama|Mystery|Thriller,1990,2550 Anhalt Plaza,12:48
+186,Halloween 5: The Revenge of Michael Myers,Horror,1992,74 Grasskamp Avenue,8:30
+187,Neil Young Journeys,Documentary,2007,33 Oxford Pass,7:49
+188,Sahara,Action|Drama|War,2008,1108 Almo Crossing,22:27
+189,Elusive Summer of '68 The (Varljivo leto '68),Comedy|Drama|Romance,1991,90992 Ludington Center,18:27
+190,Top Hat,Comedy|Musical|Romance,2002,2 Orin Street,20:58
+191,Life is a Bed of Roses (Vie est un roman La),Fantasy|Musical,1992,76 Rusk Plaza,6:47
+192,Blue Smoke,Drama|Romance|Thriller,2009,3 Eagan Trail,1:33
+193,Substitute The (Vikaren),Comedy|Sci-Fi|Thriller,2006,86829 Burning Wood Drive,1:19
+194,Falling (a.k.a. Fallen),Drama,2011,44985 Donald Alley,10:51
+195,Beyond the Poseidon Adventure,Adventure,1995,935 Algoma Plaza,19:59
+196,Champion The,Comedy,2007,170 Maywood Crossing,22:21
+197,Mrs. Miniver,Drama|War,1997,8377 Charing Cross Street,0:56
+198,Nativity!,Children|Comedy|Musical,1997,1 Rigney Alley,15:30
+199,'R Xmas,Crime|Drama,2011,74674 Stang Crossing,0:22
+200,Portraits of Women (Naisenkuvia),Comedy|Drama,1990,4 Hooker Alley,11:50
+201,What to Do in Case of Fire (Was tun wenn's brennt?),Comedy|Drama,2000,94 Weeping Birch Park,17:26
+202,Bachelor The,Comedy|Romance,2008,6 Warrior Parkway,10:08
+203,Last Godfather The,Comedy,2006,8685 Fuller Street,4:00
+204,Wild Horse Wild Ride,Documentary|Western,2002,775 Service Road,18:12
+205,Smoke,Comedy|Drama,1995,4936 Hooker Park,3:10
+206,Sliding Doors,Drama|Romance,2004,22352 La Follette Alley,15:09
+207,Latin Music USA,Documentary|Musical,2005,572 Sutherland Trail,5:30
+208,In a World...,Comedy,2011,5312 Bay Alley,2:46
+209,The Dust Bowl,Documentary,2003,95455 Hudson Drive,10:02
+210,Honeymoon,Comedy|Romance,2005,8174 Brickson Park Avenue,7:47
+211,Blissfully Yours (Sud sanaeha),Drama|Romance,1984,8223 Elgar Crossing,13:53
+212,Bribe The,Drama|Film-Noir|Thriller,1995,50 Eastlawn Point,0:52
+213,Black Magic Rites & the Secret Orgies of the 14th Century (Riti magie nere e segrete orge nel trecento...),Horror,1993,34368 Pawling Court,7:18
+214,Man for a Day,Documentary,2003,32672 Surrey Parkway,12:36
+215,Romasanta: The Werewolf Hunt,Drama|Horror|Mystery,2007,95 Mcguire Park,20:03
+216,Peaceful Warrior,Drama,2010,9 Kensington Road,10:31
+217,Lightnin',Comedy|Drama,2010,73 Columbus Alley,0:42
+218,Taxi 2,Action|Comedy,2001,3597 Manley Point,18:25
+219,Good Man A (Un buen hombre),Crime|Drama,2003,11 Dennis Alley,16:18
+220,Fever,Drama,2001,1567 Gulseth Alley,18:14
+221,Hit and Run (Hit & Run),Action|Comedy|Romance,1985,42251 Hollow Ridge Plaza,21:07
+222,True Story,Drama|Mystery|Thriller,2001,8926 Westerfield Plaza,4:07
+223,Sexo Amor e Traição,Comedy,2000,29 Logan Place,14:29
+224,Sleeping Beauty The (La belle endormie),Drama,1997,03 Service Crossing,9:54
+225,Big Eden,Drama|Romance,1987,16379 Fisk Point,12:13
+226,Captain Conan (Capitaine Conan),Drama|War,2005,4786 Sunnyside Hill,2:40
+227,Asterix & Obelix vs. Caesar (Astérix et Obélix contre César),Adventure|Children|Comedy|Fantasy,1989,9 Ridgeview Crossing,0:05
+228,Burn Up!,Action|Animation,2008,77730 Fallview Crossing,2:14
+229,Personal Journey with Martin Scorsese Through American Movies A,Documentary,2008,1 Anderson Junction,12:21
+230,Bachelor Mother,Comedy|Romance,2011,55377 Brown Circle,8:26
+231,Siberian Education (Educazione siberiana),Drama,2011,03 Becker Avenue,14:08
+232,Penthouse North,Drama|Mystery|Thriller,2005,52 School Road,16:32
+233,Leather Jacket Love Story,Drama|Romance,1998,99683 Kings Street,10:58
+234,Disaster Movie,Comedy,1973,8 Lien Way,12:16
+235,Jack Frost,Children,1986,5554 Eagan Center,8:05
+236,Vampir (Cuadecuc vampir),Documentary|Horror,2009,5151 Sauthoff Point,9:43
+237,Intermezzo,Drama|Romance,1989,472 Talisman Center,0:46
+238,Vampires Suck,Comedy,1993,445 Fairview Junction,13:47
+239,Hogfather (Terry Pratchett's Hogfather),Adventure|Fantasy|Thriller,2000,0172 Brentwood Park,19:01
+240,Joe Versus the Volcano,Comedy|Romance,1997,2941 Northport Avenue,8:42
+241,Sweet Liberty,Comedy,1995,28 Mockingbird Trail,1:49
+242,Fawlty Towers (1975-1979),Comedy,1995,311 Myrtle Place,1:15
+243,Japanese Girls at the Harbor (Minato no nihon musume),Drama,2005,82 Clemons Center,19:36
+244,Spook Who Sat by the Door The,Action|Crime|Drama,2006,5 Ilene Junction,7:25
+245,TPB AFK: The Pirate Bay Away from Keyboard,Documentary,2007,6 Meadow Vale Street,9:02
+246,Derek,Documentary,1991,765 Lukken Circle,13:05
+247,Rocky Horror Picture Show The,Comedy|Horror|Musical|Sci-Fi,1984,19 Beilfuss Lane,5:00
+248,Game of Death The (Le Jeu de la Mort),Documentary,2003,357 Sugar Junction,6:40
+249,Borrower The,Comedy|Horror|Sci-Fi,2012,335 Havey Hill,18:00
+250,Something Wicked This Way Comes,Children|Drama|Fantasy|Mystery|Thriller,2001,55418 Pine View Terrace,3:01
+251,Bag of Hammers A,Comedy|Drama,1994,9923 Corry Court,23:52
+252,Rocketship X-M,Sci-Fi,2001,683 Lerdahl Way,17:07
+253,Unexpected Love An,Drama,2006,99 Autumn Leaf Alley,0:17
+254,Emil i Lönneberga,Children|Drama,2004,35 Maple Avenue,10:58
+255,4:44 Last Day on Earth,Drama|Fantasy|Sci-Fi,2007,91631 Iowa Place,6:20
+256,Trio The (Trio Das),Drama|Romance,2003,076 Roxbury Avenue,8:33
+257,Witches The,Children|Fantasy,2005,881 Michigan Terrace,14:15
+258,Hollow Point,Action|Comedy|Thriller,2007,5516 Kipling Way,2:54
+259,Better Tomorrow A (Ying hung boon sik),Crime|Drama|Thriller,1992,51547 Oriole Plaza,11:24
+260,Part of the Weekend Never Dies,Documentary,2006,62 Katie Park,1:30
+261,Red Hill,Crime|Thriller|Western,1995,91 Tony Park,14:39
+262,That Forsyte Woman,Drama|Romance,2012,2 Browning Circle,16:51
+263,My Tutor,Drama,1987,135 Upham Road,8:00
+264,They All Laughed,Comedy,1998,858 Forest Run Center,5:38
+265,Cosmic Psychos: Blokes You Can Trust,Documentary|Musical,2011,344 Dahle Hill,8:40
+266,Kinjite: Forbidden Subjects,Crime|Thriller,1999,92224 Miller Junction,19:05
+267,Amber Lake ,Drama|Thriller,1995,95620 Crest Line Alley,16:57
+268,Vulgar,Drama,2011,894 Eagle Crest Court,13:07
+269,Brainstorm (Bicho de Sete Cabeças),Drama,1988,1 Dwight Terrace,5:26
+270,Dragon Ball Z: Broly Second Coming (Doragon bôru Z 10: Kiken na futari! Sûpâ senshi wa nemurenai),Action|Adventure|Animation,2009,9 Anzinger Park,15:38
+271,Last September The,Drama,1998,31 Summerview Point,1:20
+272,Virginia's Run,Drama,2004,0 Trailsway Terrace,22:52
+273,Sherlock Holmes and the Masks of Death,Mystery,2008,82719 Hooker Circle,17:28
+274,Justice League: Doom ,Action|Animation|Fantasy,1993,55 Fair Oaks Parkway,7:44
+275,Anna and the King,Drama|Romance,1996,44 Corben Place,14:45
+276,What Planet Are You From?,Comedy|Sci-Fi,1983,7572 Kinsman Place,10:55
+277,Man of the Year,Comedy|Thriller,2005,57 Garrison Point,17:15
+278,10th Kingdom The,Adventure|Comedy|Fantasy,2003,46534 Melvin Place,10:31
+279,Giants and Toys (Kyojin to gangu),Comedy|Drama,1992,47 Mitchell Park,17:56
+280,Ole dole doff,Drama,1995,22110 Parkside Pass,20:30
+281,Pulse,Horror|Sci-Fi|Thriller,2000,5 Hansons Way,15:38
+282,Bullets or Ballots,Crime|Drama|Thriller,1992,4750 Sherman Park,0:43
+283,Exercice de l'État L',Drama,1991,3457 Mesta Circle,9:39
+284,Two for the Road,Comedy|Drama|Romance,2012,93 Jenna Place,3:37
+285,Blood: The Last Vampire,Action|Horror|Thriller,2000,27656 Jay Hill,2:53
+286,Killing Me Softly,Drama|Mystery|Romance|Thriller,2007,35 Upham Pass,6:02
+287,Malice,Thriller,2001,0 Golf Course Drive,5:54
+288,Van Helsing,Action|Adventure|Fantasy|Horror,1998,2 Macpherson Junction,0:42
+289,King Kong Lives,Adventure|Sci-Fi,2006,3216 Scott Center,4:58
+290,Charlie Chan in Paris,Comedy|Crime|Drama|Mystery|Thriller,1992,6834 Sugar Terrace,23:49
+291,Desire Under the Elms,Drama|Romance,2011,00 Jenna Hill,4:02
+292,Smile Like Yours A,Comedy|Romance,2007,591 Montana Crossing,22:41
+293,Crackerjack,Comedy,1992,886 Mcbride Junction,17:58
+294,Men with Guns,Drama,2004,69 Thompson Pass,23:08
+295,Enemy of the State,Action|Thriller,2010,87553 Clyde Gallagher Place,0:25
+296,Home Page,Documentary,2009,17 Onsgard Terrace,18:43
+297,Hell Town (Born to the West),Romance|Western,1984,1 Longview Way,20:20
+298,For Roseanna (Roseanna's Grave),Comedy|Drama|Romance,1998,52087 Cherokee Avenue,14:08
+299,Theatre Bizarre The,Horror,1993,272 Lighthouse Bay Way,4:43
+300,Cobb,Drama,1996,629 Mariners Cove Alley,11:25
+301,Slaughterhouse-Five,Comedy|Drama|Sci-Fi|War,2006,643 Oak Lane,23:19
+302,247°F ,Horror|Thriller,1998,359 6th Drive,19:32
+303,The Whisperer in Darkness,Horror|Mystery|Sci-Fi|Thriller,1998,6022 Del Mar Alley,18:56
+304,Fanny,Comedy|Drama|Romance,1992,357 Kensington Court,15:47
+305,Bigfoot,Adventure|Horror|Sci-Fi,2000,25805 Katie Drive,23:24
+306,Lightning Bolt: The Power of Salad,Documentary,1994,57 Bashford Street,11:45
+307,Romance on the High Seas,Comedy|Musical|Romance,2004,82146 Eagan Place,13:18
+308,White Fang (Zanna Bianca),Adventure,2008,9 Green Hill,4:50
+309,Stella,Drama,2000,01102 Del Mar Road,15:10
+310,That Lady in Ermine,Comedy|Fantasy|Musical|Romance,2003,799 Hoepker Way,5:22
+311,I Was A Communist for the FBI,Drama|Film-Noir|Thriller,1991,27179 Harper Drive,7:06
+312,I'm Here,Drama,1994,8 Anthes Drive,3:31
+313,Fast Times at Ridgemont High,Comedy|Drama|Romance,1999,31020 Straubel Avenue,3:17
+314,Four Times The (Le Quattro Volte),Drama,2000,464 Briar Crest Street,21:03
+315,Black Tights (1-2-3-4 ou Les Collants noirs),Drama|Musical,1991,1600 Maryland Park,5:58
+316,Fall Time,Drama,1989,0264 Havey Road,20:26
+317,Victor Sjöström: Ett porträtt,Documentary,1983,8 Sunbrook Hill,23:56
+318,AKA,Drama,1986,47808 Anderson Alley,1:36
+319,Housewarming (Travaux on sait quand ça commence...),Comedy,2009,83636 Del Mar Plaza,15:57
+320,Ransom,Crime|Thriller,2006,6770 Norway Maple Parkway,11:36
+321,Steamboat Willie,Animation|Children|Comedy|Musical,2003,69 Rockefeller Hill,23:11
+322,Float,Drama|Romance,2012,61 Manley Crossing,0:28
+323,Victor/Victoria,Comedy|Musical|Romance,2011,5879 Onsgard Center,6:41
+324,Texas Chainsaw Massacre 2 The,Horror,2012,3066 Paget Street,22:26
+325,Newburgh Sting The,Documentary,1986,0196 New Castle Terrace,3:39
+326,Weekend,Drama|Romance,2004,4262 2nd Plaza,1:57
+327,Michael the Brave (Mihai Viteazul),Action|Drama,2006,2 Loeprich Drive,21:46
+328,Without Pity,Crime|Drama,2012,6022 Summerview Park,3:24
+329,Stuck Between Stations,Comedy|Drama|Romance,2002,4 Toban Lane,0:42
+330,Phoenix,Crime|Drama,1988,860 Prairie Rose Junction,21:18
+331,Double Take,Action|Comedy,2003,9656 Shasta Way,6:08
+332,Lost Christmas,Drama,1996,79718 Dexter Circle,17:28
+333,Margaret's Museum,Drama,2009,6920 Helena Lane,10:31
+334,Marmaduke,Comedy,1995,1406 Ruskin Way,18:15
+335,And So It Is,Drama,1999,3 John Wall Parkway,10:18
+336,Wattstax,Documentary|Musical,2008,9 Division Parkway,15:42
+337,Abbott and Costello Meet the Killer Boris Karloff,Comedy|Mystery|Thriller,2008,46259 Maryland Trail,3:39
+338,Life in a Day,Documentary|Drama,2001,089 Manitowish Drive,8:56
+339,Christmas Party The (Joulubileet),Comedy,2012,51 Grim Plaza,16:44
+340,Red Bear A (Un oso rojo),Crime|Drama|Thriller,2005,9803 Spenser Plaza,19:39
+341,Tyler Perry's Madea's Big Happy Family,Comedy|Drama,2001,0299 Schiller Hill,14:35
+342,Best Foot Forward,Comedy|Musical,1992,309 Vera Hill,10:20
+343,Visitors The (Visiteurs Les),Comedy|Fantasy|Sci-Fi,2012,9 Judy Drive,12:44
+344,Case of the Grinning Cat The (Chats perchés),Documentary,1994,616 Coolidge Parkway,21:49
+345,Prisoner of Zenda The,Adventure,1997,85 Waubesa Way,21:46
+346,Chronicle of Anna Magdalena Bach The (Chronik der Anna Magdalena Bach),Drama,1992,2245 Barby Court,21:07
+347,Like It Is,Drama,1998,5035 Becker Way,0:24
+348,Adventures of Ichabod and Mr. Toad The,Animation|Children,1998,7 Knutson Circle,23:18
+349,Hour of the Gun,Western,2013,70 Montana Lane,1:11
+350,Raw Deal,Film-Noir,1960,5523 Armistice Plaza,4:17
+351,Here be Dragons,Documentary,2000,0 Riverside Center,20:42
+352,Sweet Jesus Preacherman,Action|Drama,2011,4 Nevada Alley,14:53
+353,Hunchback of Notre Dame The,Animation|Children|Drama|Musical|Romance,2012,956 Declaration Hill,21:57
+354,Murders in the Zoo,Crime|Horror|Mystery,2003,00 Fulton Plaza,2:27
+355,New Jersey Drive,Crime|Drama,2012,491 Butternut Crossing,7:41
+356,Delicatessen,Comedy|Drama|Romance,1990,93 Bluestem Plaza,17:02
+357,Prince of Foxes,Adventure|Drama,2010,40862 Starling Lane,1:29
+358,Sexmission (Seksmisja),Adventure|Comedy|Sci-Fi,2004,7856 Comanche Pass,3:51
+359,Some Folks Call It a Sling Blade,Drama|Thriller,2008,0 Hanover Alley,18:01
+360,Explorers,Adventure|Children|Sci-Fi,1992,46455 Clyde Gallagher Drive,21:32
+361,Vinyl,Documentary,2002,3 Spenser Street,15:20
+362,Sophie's World (Sofies verden),Adventure|Drama|Fantasy,2011,635 Pine View Alley,2:01
+363,Cold Turkey,Comedy,2011,0 Anderson Park,10:31
+364,Double Dare,Documentary,2002,58332 Eagle Crest Avenue,15:52
+365,Second Woman The,Drama|Film-Noir|Mystery,2002,8 Kim Point,22:01
+366,Grindhouse,Action|Crime|Horror|Sci-Fi|Thriller,2004,48313 Anderson Road,8:06
+367,Interrupted Melody,Drama|Musical,1993,06 Roth Way,14:09
+368,Planet 51,Adventure|Animation|Children|Comedy|Sci-Fi,2010,0402 Tomscot Drive,20:50
+369,Kippur,Drama|War,2003,79 Shopko Center,22:26
+370,Unfaithfully Yours,Comedy|Romance,2007,2044 Shoshone Court,7:59
+371,On Any Sunday,Documentary,2004,009 Autumn Leaf Place,23:55
+372,Six Days Seven Nights,Adventure|Comedy|Romance,2010,2 Westend Circle,3:46
+373,Manny & Lo,Drama,1992,1324 Declaration Alley,6:49
+374,The Police Serve the Citizens?,Action|Crime,1985,1 Riverside Street,21:52
+375,Cousin Angelica (La prima Angélica),Drama,2010,86221 Maywood Alley,5:34
+376,Grandmaster The (Yi dai zong shi),Action|Drama|IMAX,1953,87632 Sundown Crossing,15:04
+377,Who Am I (Kein System Ist Sicher),Thriller,2007,50 International Circle,5:21
+378,Tobor the Great,Children|Sci-Fi,2005,1 Lerdahl Pass,15:06
+379,I Accuse!,Drama,1995,1 Hintze Crossing,2:12
+380,When Worlds Collide,Sci-Fi,2011,90 Iowa Court,3:52
+381,Flowers of St. Francis (Francesco giullare di Dio),Drama,2004,1889 Buhler Pass,4:40
+382,Hester Street,Drama,2006,85 Randy Court,5:51
+383,Boy on a Dolphin,Adventure|Romance,1985,91 Roxbury Lane,8:34
+384,Made in Britain,Crime|Drama,2005,2641 Vahlen Terrace,2:05
+385,Suite Française,Drama|Romance|War,2006,52 Morrow Center,0:44
+386,Maria,Drama,2007,8123 Old Shore Trail,16:09
+387,Charleston,Comedy|Crime,1990,176 Lindbergh Street,22:33
+388,Prince of the Sun: The Great Adventure of Horus (Taiyou no ouji Horusu no daibouken),Animation|Fantasy,2008,073 Scofield Trail,2:35
+389,Negotiator The,Action|Crime|Drama|Mystery|Thriller,1992,82280 5th Trail,16:20
+390,Road to El Dorado The,Animation|Children,1984,469 Pennsylvania Point,19:58
+391,Lost Horizon,Adventure|Drama|Fantasy|Musical|Romance,2004,3 Northland Trail,17:32
+392,Infamous,Drama,1993,88615 Ramsey Alley,11:32
+393,Last Dragon The,Action|Comedy|Drama,2003,6018 Veith Terrace,12:56
+394,Eagle The,Adventure|Drama,1982,6 Mayfield Road,2:33
+395,Wilby Wonderful,Drama,1998,07 Carberry Trail,1:58
+396,Breezy,Drama|Romance,2004,382 Mitchell Court,20:42
+397,Breaking Up,Comedy|Romance,1993,53 High Crossing Circle,11:27
+398,Night of the Hunted The (Nuit des traquées La),Horror|Sci-Fi,1994,3 Maywood Plaza,1:27
+399,Dear Heart,Comedy,1998,10 Schurz Alley,18:05
+400,Breaking the Surface: The Greg Louganis Story,Drama,1969,66682 Mendota Court,13:17
+401,Mr. Skeffington,Drama|Romance,1995,68 Warrior Crossing,8:47
+402,009 Re: Cyborg,Action|Animation|Sci-Fi,1993,1316 Mallory Hill,23:02
+403,Shopworn Angel The,Drama|Romance|War,1995,4 Continental Avenue,2:17
+404,Due Date,Comedy,2002,5 Nancy Junction,2:18
+405,Mulan II,Action|Animation|Children|Comedy|Musical,2011,16 Valley Edge Road,19:26
+406,Father The (Pedar),Drama,2010,791 Muir Street,19:15
+407,Hurricane Express The,Adventure|Crime|Drama,1993,306 Sage Drive,12:57
+408,Barbie: A Perfect Christmas,Animation|Children,1990,27659 Mesta Point,10:30
+409,Aaltra,Comedy|Drama,2012,89328 Del Sol Crossing,17:38
+410,Organizer The (I compagni),Crime|Drama,2012,70854 Center Place,23:48
+411,Burning Hot Summer A (Un été brûlant),Drama,1987,47469 Hudson Drive,18:45
+412,Dentist The,Horror|Thriller,1998,058 Eastlawn Pass,5:10
+413,Prodigal Son The (Bai ga jai),Action|Adventure|Drama,2008,4311 Waxwing Street,23:30
+414,Times and Winds (Bes vakit),Drama,2007,7 Oakridge Hill,10:52
+415,Earrings of Madame de... The (Madame de...),Drama,2004,3102 Autumn Leaf Circle,13:34
+416,Apartment Zero,Drama|Thriller,1984,529 Little Fleur Center,6:48
+417,On the Edge (Hak bak do),Crime|Drama,1992,8563 Sutteridge Hill,21:18
+418,Rancho Notorious,Drama|Western,2004,7734 Independence Alley,22:39
+419,Exotica,Drama,1995,6 Maryland Avenue,21:41
+420,ChromeSkull: Laid to Rest 2,Horror,1995,0 Badeau Crossing,8:40
+421,Funny Face,Comedy|Musical,1995,51 Golden Leaf Hill,21:21
+422,Touki Bouki,Drama,1997,0 Schmedeman Place,0:40
+423,Perfume,Comedy|Drama,1995,6161 Truax Trail,10:34
+424,A Mulher Invisível,Comedy,1999,25 Debs Road,10:19
+425,We Have a Pope (Habemus Papam),Drama,2002,73 Saint Paul Plaza,1:56
+426,Throw Away Your Books Rally in the Streets,Drama,1994,11710 Loomis Center,0:03
+427,Desert Bloom,Drama,2010,130 Burrows Avenue,18:45
+428,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha),Action|Comedy|Crime|Thriller,2008,971 Kinsman Hill,7:29
+429,Two Brothers (Deux frères),Adventure|Children|Drama,1993,515 Marquette Junction,0:23
+430,Cocoanuts The,Comedy|Musical,1998,3 Arrowood Circle,15:27
+431,Manny,Documentary|Drama,2012,85240 Packers Crossing,20:21
+432,The Distance,(no genres listed),1995,90 Cardinal Street,10:27
+433,Green Ice,Adventure|Romance,2005,23 Scofield Avenue,1:59
+434,Johnny Handsome,Crime|Drama,1995,9930 Buena Vista Alley,14:54
+435,Three Fugitives,Action|Comedy,1994,4 Rieder Drive,11:11
+436,Crows Zero II (Kurôzu Zero II),Action,1998,616 Havey Way,16:51
+437,Gabriel,Action|Horror,1997,39688 Gateway Trail,10:29
+438,César,Comedy|Drama|Romance,2005,08148 Ramsey Terrace,21:16
+439,Night on Earth,Comedy|Drama,1995,9481 Farragut Parkway,13:33
+440,To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence),Comedy|Drama,1993,08 Thierer Trail,6:48
+441,Phantom (O Fantasma),Drama,1992,0775 4th Lane,8:42
+442,Amish Murder An,Action|Crime|Drama,2010,20721 Prairieview Parkway,11:24
+443,Tournament The,Action,2007,2846 Kedzie Alley,13:08
+444,300 Spartans The,Adventure|Drama|War,1994,32 Welch Crossing,10:24
+445,Diary of a Wimpy Kid: Rodrick Rules,Comedy,1984,8110 Anhalt Hill,13:38
+446,Beneath,Horror,2011,505 8th Way,21:27
+447,Masked & Anonymous,Comedy|Drama,2004,8 Kenwood Junction,22:23
+448,Somersault,Drama,2001,14335 Talisman Crossing,22:20
+449,Mostly Unfabulous Social Life of Ethan Green The,Comedy|Romance,2002,80574 Upham Way,10:35
+450,Following,Crime|Mystery|Thriller,2007,9795 Melby Parkway,13:21
+451,No Way to Treat a Lady,Crime|Drama|Thriller,2009,7442 Del Sol Park,1:58
+452,Pretty Persuasion,Comedy|Drama,2008,326 Butterfield Road,23:46
+453,Perfect Holiday The,Comedy|Romance,2012,5 Buell Court,6:53
+454,Robe The,Drama,2011,0 Old Shore Parkway,6:10
+455,Dance of Outlaws (Häätanssi),Documentary,2011,53873 Vermont Street,13:22
+456,Decameron The (Decameron Il),Comedy|Drama,2007,7 Maple Wood Way,1:21
+457,Jack Frost,Children|Comedy|Drama,1970,3551 Division Junction,15:39
+458,Quatermass 2 (Enemy from Space),Sci-Fi|Thriller,2011,721 2nd Avenue,9:27
+459,Camila,Drama|Romance,1996,47 Declaration Parkway,2:46
+460,Holiday The,Comedy|Romance,1999,76 Mariners Cove Alley,21:10
+461,Following,Crime|Mystery|Thriller,2010,08 La Follette Point,12:25
+462,Permanent Record,Drama,1992,0 Kinsman Court,1:09
+463,Radiohead: Meeting People Is Easy,Documentary,1997,89 Lake View Place,18:52
+464,Runaways The,Drama|Musical,1995,12679 Orin Way,10:09
+465,Wallace & Gromit: The Best of Aardman Animation,Adventure|Animation|Comedy,2010,256 Miller Parkway,4:48
+466,Harder They Come The,Action|Crime|Drama,2012,6961 Grover Park,9:29
+467,Bad Men of Missouri,Action|Romance|Western,2010,3871 Pine View Way,20:18
+468,Fighting Prince of Donegal The,Action|Adventure,1997,500 Mariners Cove Lane,3:22
+469,Beast of War The (Beast The),Drama|War,2011,70 Oxford Crossing,23:40
+470,Inherent Vice,Comedy|Crime|Drama|Mystery|Romance,1992,997 Crownhardt Lane,13:11
+471,Cars 2,Adventure|Animation|Children|Comedy|IMAX,2003,8 Utah Avenue,11:25
+472,Great Magician The (Daai mo seut si),Comedy|Drama|Romance,1990,4 Farwell Lane,12:43
+473,Immaculate Conception of Little Dizzle,Comedy,2002,20222 Holy Cross Road,20:54
+474,Shallow Grave,Comedy|Drama|Thriller,2013,321 Del Sol Lane,9:02
+475,Toy Story 2,Adventure|Animation|Children|Comedy|Fantasy,1992,61 Rutledge Lane,10:39
+476,Car Wash,Comedy,2005,97 Trailsway Street,18:39
+477,Son-Daughter The,Drama,1993,509 Loomis Hill,16:34
+478,One Direction: This Is Us,Documentary,2007,28185 Charing Cross Place,10:14
+479,Boat Trip,Comedy,2011,8320 Talmadge Road,15:18
+480,Foreigner The,Action|Thriller,2004,9 Rieder Center,8:28
+481,Deep End,Comedy|Drama|Romance,2010,64460 Twin Pines Pass,17:18
+482,Beyond the Stars,Drama|Sci-Fi,2005,686 South Way,8:57
+483,Happiness of the Katakuris The (Katakuri-ke no kôfuku),Comedy|Horror|Musical,1996,6934 Ohio Terrace,21:09
+484,The Nutcracker Prince,Adventure|Animation|Children|Fantasy,1991,42 Grim Park,7:51
+485,Kill Bill: Vol. 2,Action|Drama|Thriller,2009,334 Glendale Way,16:58
+486,Rubber Johnny,Animation|Horror,2000,16 Anthes Terrace,15:06
+487,Welcome to the Roses (Bienvenue chez les Rozes),Comedy,1990,64497 Victoria Park,7:08
+488,Honeymooners The,Comedy,1995,04 Harbort Terrace,0:24
+489,Happy Together,Drama|Romance,1993,3 Colorado Park,18:56
+490,Screaming Man A (Un homme qui crie),Drama,1997,163 Darwin Crossing,16:27
+491,To Cross the Rubicon,Drama,2000,6083 Hansons Plaza,4:17
+492,Bleak Moments,Comedy|Drama,1994,410 Brown Place,10:02
+493,Wild Target,Comedy|Drama|Romance|Thriller,2006,2074 Little Fleur Terrace,22:52
+494,Separation A (Jodaeiye Nader az Simin),Drama,2004,948 Dottie Road,20:50
+495,Each Dawn I Die,Crime|Drama|Thriller,1998,62 Oak Street,22:17
+496,El Lobo,Thriller,2012,3 Summerview Alley,6:40
+497,Somewhere Between,Documentary,1996,04 Graceland Lane,13:38
+498,Crippled Masters (Tian can di que),Action|Drama,1993,108 Walton Point,10:09
+499,Summer by the River A (Kuningasjätkä),Drama,2012,024 Lyons Court,19:04
+500,Mutants,Horror|Sci-Fi,1999,6517 Crowley Court,23:12
+501,Roadie,Comedy|Drama,1996,0 Sutteridge Point,20:48
+502,Confessions of a Shopaholic,Comedy|Romance,1989,3 Ilene Pass,22:00
+503,August Mordum's Underground,Horror,2011,7720 Northport Park,11:38
+504,Young Guns,Action|Comedy|Western,2001,39324 Commercial Alley,13:47
+505,Vasermil,Drama,2012,339 Coolidge Point,2:03
+506,I Capture the Castle,Drama|Romance,2009,8 Anzinger Lane,22:22
+507,Vibes,Adventure|Comedy|Romance,2009,0 Basil Pass,4:57
+508,Burning Secret,Drama,1998,671 Namekagon Drive,9:17
+509,Berberian Sound Studio,Drama|Horror|Thriller,1998,11 Montana Junction,13:07
+510,Pandora and the Flying Dutchman,Drama,1998,4975 Bultman Parkway,8:30
+511,Five Fingers,Drama|Thriller,2009,631 Rockefeller Drive,1:00
+512,Dark Blue,Action|Crime|Drama|Thriller,2007,86 Meadow Ridge Road,15:30
+513,Dillinger Is Dead (Dillinger è morto),Crime|Drama,2003,73622 Chive Hill,10:09
+514,Deuces Wild,Drama,1985,55029 6th Point,9:53
+515,Makai Tensho: Samurai Reincarnation (Makai tenshô),Action|Fantasy|Horror,1999,5 Dwight Drive,2:48
+516,Spider Lilies (Ci qing),Drama|Romance,2002,1 Oakridge Street,4:17
+517,Untamed Youth,Drama,2001,2306 Havey Drive,10:26
+518,Assault on Wall Street ,Drama|Thriller,1993,71186 Graedel Point,11:52
+519,Panama Hattie,Comedy|Musical,1978,11189 Pepper Wood Lane,15:54
+520,I Cesar (Moi César 10 ans 1/2 1m39),Children|Comedy,2009,308 Everett Lane,2:21
+521,Carnival of Souls,Horror|Thriller,1996,520 Kenwood Drive,1:53
+522,Interrogation The (Kuulustelu),Drama,2000,27 Bashford Way,13:44
+523,Norm MacDonald: Me Doing Standup,Comedy,1997,8152 Everett Park,7:26
+524,Three Stooges Meet Hercules The,Comedy|Fantasy,2008,1989 Montana Street,0:53
+525,Wrongfully Accused,Action|Comedy,1991,8184 Nancy Parkway,2:43
+526,Deuces Wild,Drama,2001,10 Brown Point,8:51
+527,Body of Evidence,Drama|Thriller,2003,5543 Crest Line Court,18:17
+528,For My Father (Sof Shavua B'Tel Aviv),Drama,2012,21714 Acker Park,13:18
+529,Mansfield Park,Comedy|Drama|Romance,1992,9561 Debra Drive,11:12
+530,Red Road,Drama,2003,662 Lunder Place,8:59
+531,I Am Comic,Documentary,2008,798 Cherokee Point,15:46
+532,Miracle of Marcelino The (Marcelino pan y vino),Comedy|Drama,2004,729 Bowman Junction,20:55
+533,Hunger The,Horror,2003,13015 Dennis Trail,11:02
+534,They Came Back (Les Revenants),Drama|Fantasy,1998,32 Burning Wood Way,14:14
+535,Waiter (Ober),Comedy,1985,3 Steensland Place,5:32
+536,Dr. Wai in the Scriptures with No Words (Mao xian wang),Action,2007,51538 Morning Trail,20:34
+537,12 O'Clock Boys,Documentary,1961,523 Warrior Hill,9:22
+538,Avalon,Drama,2009,0892 Oriole Crossing,13:46
+539,Star Trek V: The Final Frontier,Action|Sci-Fi,2007,5719 Crest Line Pass,5:57
+540,Visitors The (Visiteurs Les),Comedy|Fantasy|Sci-Fi,2001,32213 Vahlen Avenue,16:25
+541,Casting Couch,(no genres listed),1966,7 Bellgrove Street,1:28
+542,We'll Never Have Paris,Comedy|Romance,1998,007 Mandrake Pass,4:49
+543,Emperor Jones The,Drama,1999,461 Pepper Wood Plaza,6:56
+544,Librarian The: The Curse of the Judas Chalice,Action|Adventure|Fantasy,1984,74592 Pond Junction,5:49
+545,Cage aux Folles II La,Comedy,2011,387 Prairieview Drive,21:01
+546,Chasing Amy,Comedy|Drama|Romance,2006,6 Sachtjen Avenue,21:13
+547,Over Your Dead Body,Horror,2007,3 Garrison Avenue,3:58
+548,Enemies: A Love Story,Drama,2008,851 Manley Plaza,5:36
+549,Cass Timberlane,Drama|Romance,2010,494 Mcbride Park,13:09
+550,And the Ship Sails On (E la nave va),Comedy|War,2003,84303 Jenna Avenue,22:14
+551,Salvation The,Drama|Western,2005,369 Del Mar Way,5:52
+552,Creator,Comedy|Drama|Romance,1997,6968 1st Avenue,1:59
+553,Time to Kill A,Drama|Thriller,2008,174 Fieldstone Circle,1:49
+554,Interview with the Assassin,Drama,1993,3 Derek Hill,21:34
+555,How to Meet Girls from a Distance,Comedy,2009,8113 Autumn Leaf Center,17:55
+556,Saawariya,Drama|Musical|Romance,2012,018 Browning Court,3:25
+557,Thank You Jeeves!,(no genres listed),2008,08777 Meadow Valley Pass,21:16
+558,Big Empty The,Comedy|Mystery|Sci-Fi,1990,1395 Northport Court,13:48
+559,The Great Raid,Action|Drama|War,2010,91858 Armistice Parkway,14:49
+560,Goodbye World,Comedy|Drama,1993,1442 Melrose Hill,20:34
+561,Weekend at Bernie's II,Adventure|Comedy,2003,0 Tony Way,23:11
+562,Ugly Truth The,Comedy|Drama|Romance,2009,27032 Victoria Junction,11:28
+563,Last Stop 174 (Última Parada 174) ,Crime|Drama|Thriller,2006,9131 Burning Wood Park,10:42
+564,Runner Runner,Crime|Drama|Thriller,2003,590 Declaration Crossing,15:20
+565,Whom the Gods Wish to Destroy (Nibelungen Teil 1: Siegfried Die),Adventure|Fantasy,2008,70849 Springs Circle,5:30
+566,Great King The (Der große König),Drama|War,2004,71148 Dunning Circle,7:59
+567,Total Recall,Action|Sci-Fi|Thriller,1991,91 Porter Point,5:49
+568,Puff Puff Pass,Comedy,2003,74865 Acker Junction,20:38
+569,Our Man in Havana,Comedy|Drama|Thriller,1996,39 Vidon Junction,18:56
+570,Absurdistan,Comedy|Romance,2001,3 Tomscot Parkway,6:16
+571,Merantau,Action|Drama,2010,16981 Del Sol Junction,4:33
+572,Kalevala - Uusi aika,Drama|Fantasy,2011,93682 Darwin Hill,14:31
+573,Under the Lighthouse Dancing,Drama,1996,5 Clemons Circle,21:04
+574,Since You Went Away,Drama|War,1997,0 Lyons Parkway,21:03
+575,Concussion,Drama,2004,5003 Mayer Park,9:18
+576,Gorgeous Hussy The,Drama,2011,004 Main Plaza,2:17
+577,Accident,Crime|Drama,2004,2 Stone Corner Road,5:11
+578,Alien: Resurrection,Action|Horror|Sci-Fi,2006,12425 Wayridge Center,1:40
+579,Rewind This!,Documentary,2011,99765 Brown Place,11:40
+580,Mr. Turner,Drama,2003,7750 Huxley Point,18:19
+581,Breaking Point,Action|Crime|Drama|Thriller,2009,8 Cascade Circle,8:00
+582,Freddy Got Fingered,Comedy,2008,9106 Little Fleur Street,4:25
+583,Dark Knight Rises The,Action|Adventure|Crime|IMAX,2007,87 Birchwood Junction,1:30
+584,Dust Factory The,Adventure|Children|Romance,2012,1185 Maywood Crossing,11:45
+585,2 Days in Paris,Comedy|Drama|Romance,2007,0 Melody Crossing,20:04
+586,Woman's Secret A,Drama|Film-Noir|Mystery,1993,4951 Melody Lane,17:15
+587,Street Fighter II: The Animated Movie (Sutorîto Faitâ II gekijô-ban),Action|Animation,2007,9 Heffernan Parkway,20:57
+588,Perestroika,Drama,1994,3523 Boyd Alley,12:10
+589,Four more years (Fyra år till),Comedy|Romance,2012,953 Mariners Cove Alley,4:06
+590,Quiet Earth The,Drama|Mystery|Sci-Fi,2010,0 Luster Pass,8:13
+591,Doogal,Animation|Children,2005,36484 Schlimgen Trail,8:04
+592,Othello,Drama,2006,4390 Pawling Avenue,6:35
+593,My Girlfriend's Boyfriend,Comedy|Romance,2007,189 Butternut Way,12:35
+594,Black Orpheus (Orfeu Negro),Drama|Romance,1992,20030 Mandrake Terrace,22:51
+595,Two Women,Drama,1996,7 Trailsway Terrace,16:55
+596,Life with Mikey,Comedy,1997,4 Vidon Circle,14:03
+597,Mustalaishurmaaja,Drama|Romance,1985,74265 Declaration Court,6:24
+598,Four Lions,Comedy|Drama,2007,40 Bartelt Pass,2:46
+599,Taxing Woman A (Marusa no onna),Comedy,1995,915 Raven Lane,8:12
+600,Westerner The,Western,1986,2485 Lyons Place,18:51
+601,Kolya (Kolja),Comedy|Drama,1997,1 Bayside Crossing,14:39
+602,Home of Dark Butterflies The (Tummien perhosten koti),Drama,2000,17828 Forest Run Trail,21:45
+603,French Fried Vacation 2 (Les bronzés font du ski),Comedy,2005,14 Dexter Center,12:56
+604,Beaufort,Action|Drama|War,2011,2756 Clarendon Avenue,10:41
+605,Dolan's Cadillac,Crime|Thriller,2008,5 Bunker Hill Avenue,2:08
+606,Breathing Fire,Action,1994,5 Kipling Park,18:14
+607,Moving,Comedy,1987,41659 Jana Center,20:58
+608,Middle of Nowhere,Comedy|Drama,1992,68615 Melody Point,19:07
+609,Freaks,Crime|Drama|Horror,1991,6 Comanche Plaza,18:13
+610,Psychomania (Death Wheelers The),Horror,1998,77948 Hoffman Street,22:32
+611,Kadosh,Drama,1996,23301 Waubesa Lane,20:35
+612,Seven Billiard Tables (Siete mesas de billar francés),Drama,1998,68322 Mockingbird Hill,10:24
+613,Liverpool,Drama,2009,22455 Orin Terrace,23:19
+614,Hoodwinked Too! Hood vs. Evil,Animation|Comedy,1998,32 New Castle Point,21:59
+615,Very Social Secretary A,Comedy|Drama,2010,60531 Dryden Park,21:21
+616,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension),Action|Fantasy,2001,18 Merry Circle,20:58
+617,Good Girl The,Comedy|Drama,2011,0841 Fair Oaks Plaza,2:57
+618,Living 'til the End,Drama,1986,5 Washington Point,19:34
+619,Blood Runs Cold,Horror,1985,5671 Center Drive,23:08
+620,Above the Street Below the Water (Over gaden under vandet),Drama,2008,103 Gulseth Hill,14:52
+621,And Now a Word from Our Sponsor,Comedy|Drama,1997,5881 Schmedeman Center,19:47
+622,The Little Fox,Adventure|Animation|Children,1991,72 3rd Circle,9:32
+623,World's Greatest Dad,Comedy|Drama,2012,50 Autumn Leaf Hill,1:50
+624,Udaan,Drama,1989,50 Fairview Court,22:09
+625,61*,Drama,2012,4098 Haas Circle,22:15
+626,Side Street,Crime|Drama|Film-Noir,2007,4 Talmadge Court,14:19
+627,Prince of the Sun: The Great Adventure of Horus (Taiyou no ouji Horusu no daibouken),Animation|Fantasy,1990,6 Westridge Center,12:17
+628,Snowmageddon,Adventure|Fantasy,2010,75 Sunnyside Alley,12:30
+629,2010: Moby Dick,Action|Adventure|Thriller,2008,3835 Eagle Crest Way,15:05
+630,Keeping Up with the Steins,Comedy,2010,47 Bluejay Trail,20:13
+631,English Patient The,Drama|Romance|War,2005,9 Orin Parkway,15:15
+632,Late August Early September (Fin août début septembre),Drama,2005,12237 Pond Drive,0:19
+633,Morgan Pålsson - världsreporter,Action|Comedy,2003,704 Judy Junction,5:20
+634,Vacancy,Horror|Thriller,1986,3302 Moose Place,12:09
+635,O Brother Where Art Thou?,Adventure|Comedy|Crime,1999,9238 Hermina Street,9:25
+636,Pleasure Garden The,Drama,2008,86 Rigney Way,5:52
+637,Seeker: The Dark Is Rising The,Action|Adventure|Drama|Fantasy,2009,2117 Loomis Plaza,6:10
+638,Rocaterrania,Documentary|Fantasy,1985,4675 Valley Edge Alley,9:38
+639,First Family,Comedy,2009,96558 Del Sol Park,4:20
+640,Flipper,Adventure|Children|Drama,2008,6 Declaration Pass,15:39
+641,Mystery Alaska,Children|Comedy,1964,2 Mallard Street,2:35
+642,Animal The,Comedy,1988,4079 Daystar Pass,17:18
+643,Annabelle,Horror,2008,3233 Kings Center,1:25
+644,I'll Do Anything,Comedy|Drama,1999,0 Chive Trail,13:07
+645,Elle: A Modern Cinderella Tale,Children|Drama|Fantasy|Sci-Fi,1997,6614 Maryland Hill,17:06
+646,Body/Cialo,Comedy|Drama|Mystery,1986,1 Carioca Court,13:51
+647,Iron Eagle,Action|War,2010,66338 Menomonie Avenue,9:19
+648,Southern Yankee A,Comedy|War|Western,1991,6271 Bay Circle,7:07
+649,The Inspector,Drama|Romance,2001,4362 High Crossing Road,8:15
+650,First Sunday,Comedy|Crime,1984,6 Southridge Way,14:19
+651,Luna Papa,Comedy|Drama|Fantasy,2006,144 Amoth Avenue,6:02
+652,Threads,Drama|Sci-Fi|War,2008,819 Bunker Hill Lane,20:44
+653,Sphere,Sci-Fi|Thriller,2001,4305 3rd Street,4:31
+654,Tremors II: Aftershocks,Comedy|Horror|Sci-Fi,2000,83 Jackson Way,6:36
+655,Farewell (L'affaire Farewell),Thriller,2003,53073 Prentice Terrace,14:02
+656,Boo to You Too! Winnie the Pooh,(no genres listed),2002,7255 Myrtle Drive,23:58
+657,Barocco,Crime|Drama|Romance|Thriller,2007,52 Southridge Terrace,8:54
+658,Gods of the Plague (Götter der Pest),Crime|Drama,1993,447 Meadow Valley Lane,1:16
+659,Single White Female 2: The Psycho,Drama|Thriller,2007,49 Green Ridge Avenue,12:36
+660,Duck Soup,Comedy|Musical|War,1995,05 Almo Parkway,2:02
+661,Love Happy,Comedy,2008,3212 Heath Center,0:45
+662,Hood of Horror,Comedy|Drama|Horror,1992,7906 Onsgard Place,5:19
+663,The Island,Drama|Mystery,1993,267 Welch Pass,13:37
+664,Water,Drama|Romance,2012,38 Starling Place,0:32
+665,Jim Jefferies: Alcoholocaust,Comedy,2002,56621 Bayside Pass,21:36
+666,Barchester Chronicles The,Drama,1995,396 Welch Avenue,10:39
+667,Dinner The (Cena La),Comedy|Drama,2010,0 Bartillon Alley,4:43
+668,Meltdown: Days of Destruction,Action|Sci-Fi|Thriller,2007,77252 Golden Leaf Lane,16:44
+669,Raw Deal,Film-Noir,2012,4027 Carey Junction,23:53
+670,Coven,Horror,2000,6501 Montana Plaza,13:14
+671,Atomic Rulers of the World,Action|Sci-Fi,1988,89 Upham Pass,20:20
+672,Billy Bathgate,Crime|Drama,2006,4 Dennis Alley,23:58
+673,Waiting for Superman,Documentary,2006,231 Mesta Alley,22:36
+674,Who the F**K Is Arthur Fogel,Documentary,1998,32649 Caliangt Avenue,2:10
+675,Dare,Drama,2006,678 Corben Park,22:47
+676,Quai des Orfèvres (Jenny Lamour),Crime|Drama,2003,335 8th Alley,13:30
+677,Sink the Bismark!,Action|Drama|War,1960,4 Luster Junction,23:52
+678,Banana Joe,Comedy,1990,882 Alpine Point,4:10
+679,I Love You Man,Comedy,2011,802 Dottie Place,18:06
+680,Room 666 (Chambre 666),Documentary,2006,961 Briar Crest Place,5:15
+681,Rage (Rabia),Romance|Thriller,1985,159 Petterle Park,15:56
+682,Shaolin Soccer (Siu lam juk kau),Action|Comedy,2013,6172 Grover Hill,20:07
+683,When in Rome,Children|Comedy,2009,2 Comanche Trail,21:22
+684,Spider Forest (Geomi sup),Drama|Horror|Mystery|Thriller,2008,56 Debs Alley,18:48
+685,Ten Inch Hero,Comedy|Drama|Romance,2000,14240 Jenna Circle,14:37
+686,Wichita,Action|Romance|Western,2007,5 Cardinal Center,9:11
+687,Kid & I The,Comedy,2010,24 Ramsey Park,16:44
+688,Joker Is Wild The (All the Way),Drama|Musical,1998,7 Heffernan Street,17:45
+689,More the Merrier The,Comedy|Romance,2001,01 Schiller Drive,10:43
+690,Child Is Waiting A,Drama,1998,4951 Sommers Lane,6:02
+691,Matter of Dignity A (To teleftaio psema),Drama,2010,1 Esch Plaza,0:54
+692,Beyond the Border,Action|Drama|War,1994,950 Bashford Hill,19:35
+693,Secret Admirer,Comedy|Romance,2000,015 Spohn Crossing,3:36
+694,Soldier's Girl,Drama,2012,40 Corry Trail,5:39
+695,Gay Bed and Breakfast of Terror The,Comedy|Horror,2001,714 Gateway Way,22:12
+696,How to Be a Serial Killer,Comedy|Crime|Horror,1984,431 Hallows Park,6:03
+697,Eversmile New Jersey,Comedy|Drama|Romance,2006,41275 Stoughton Drive,23:35
+698,Kingdom of Heaven,Action|Drama|Romance|War,2004,8140 Haas Road,20:08
+699,Diaries Notes and Sketches (Walden),Documentary,1994,14 Marquette Avenue,11:37
+700,Chastity Bites,Comedy|Horror,1991,604 Nelson Place,1:07
+701,Shadow Dancer The (Shadows in the Sun),Comedy|Drama|Romance,1995,22 Jenifer Center,13:45
+702,The Killers,Crime,1994,54 Thompson Crossing,1:21
+703,Why Does Herr R. Run Amok? (Warum läuft Herr R. Amok?),Drama,2009,683 Westerfield Circle,21:11
+704,Stuck,Horror|Thriller,2000,768 Gina Place,11:45
+705,DuckTales: The Movie - Treasure of the Lost Lamp,Adventure|Animation|Children|Comedy|Fantasy,2007,85654 Melrose Pass,13:20
+706,Made in Hong Kong (Xiang Gang zhi zao),Crime|Drama|Romance,1986,559 Washington Plaza,1:31
+707,Lola,Drama,1996,4 Oak Junction,17:24
+708,Burton and Taylor,Drama,1995,05336 Memorial Hill,13:38
+709,The Taking of Deborah Logan,Horror|Thriller,2010,35 Ronald Regan Parkway,5:36
+710,It's Impossible to Learn to Plow by Reading Books,Drama,2002,6046 Monument Center,8:15
+711,Nobody Else But You (Poupoupidou),Comedy|Crime|Mystery,2010,2 Towne Point,13:29
+712,Blue Steel,Western,2002,197 Arkansas Way,10:51
+713,Cure The,Drama,1968,1 Washington Junction,5:08
+714,Garbage Prince,Comedy|Drama|Romance,2006,9 Fulton Trail,7:31
+715,Steamboat Bill Jr.,Comedy|Romance,2009,63 Dexter Lane,17:37
+716,Soldier's Story A,Drama,1998,8216 Buell Way,18:58
+717,Underworld: Awakening,Action|Fantasy|Horror|IMAX,1999,2 Ridgeway Terrace,14:29
+718,Cousin cousine,Comedy|Romance,2005,985 Marcy Parkway,0:34
+719,Beyond the Mind's Eye,Animation|Comedy,2010,5 Corscot Plaza,17:29
+720,Pride of the Bowery,Comedy|Drama,1998,0 Butternut Pass,22:14
+721,Life of David Gale The,Crime|Drama|Thriller,2007,6609 Mandrake Junction,1:33
+722,Ogre The (Unhold Der),Drama,1997,1761 Old Gate Alley,4:10
+723,Death Ship,Horror,2010,6301 Marquette Junction,17:53
+724,Tomb of Ligeia The,Horror,1999,8998 7th Trail,12:33
+725,Out at the Wedding,Comedy|Romance,2009,4280 Lakewood Gardens Terrace,22:23
+726,Paradise Hawaiian Style,Comedy|Musical,2006,4299 Knutson Lane,6:53
+727,Penguins of Madagascar,Adventure|Animation|Children|Comedy,2008,98277 Straubel Street,9:07
+728,Silja - nuorena nukkunut,Drama|Romance,2002,6346 Pearson Crossing,7:18
+729,Batman,Action|Crime|Thriller,1994,11 Milwaukee Street,8:56
+730,Jealousy,Drama,1981,451 Sage Parkway,5:34
+731,[REC]²,Horror|Thriller,2000,63701 Waxwing Crossing,9:55
+732,Black God White Devil (Deus e o Diabo na Terra do Sol),Adventure|Crime|Drama|Western,1990,0406 Dixon Avenue,6:30
+733,In the Shadow of the Machine,Documentary,1998,14408 Kropf Center,1:15
+734,Bang Bang,Comedy,2000,186 Waxwing Avenue,9:46
+735,Chuck Berry Hail! Hail! Rock 'n' Roll,Documentary|Musical,2010,2026 Randy Junction,8:41
+736,Sexo Amor e Traição,Comedy,1994,7864 Blue Bill Park Crossing,12:52
+737,Angel,Action|Crime|Thriller,1993,489 Manitowish Lane,3:50
+738,$9.99,Animation,2011,559 Marcy Park,19:14
+739,Angels Over Broadway,Adventure|Comedy|Crime|Drama,2004,888 Anthes Junction,2:08
+740,Rocky V,Action|Drama,1988,09290 Ridgeway Drive,17:10
+741,Host The (Gwoemul),Comedy|Drama|Horror|Sci-Fi|Thriller,2012,5186 Corscot Parkway,1:20
+742,Deception,Action|Drama|Thriller,1982,107 Miller Junction,12:07
+743,Adventures of Mark Twain The,Adventure|Drama,2000,04323 Welch Terrace,19:08
+744,Birds the Bees and the Italians The (Signore & signori),Comedy,1990,39 Pearson Junction,16:45
+745,Die Fischerin,Drama,1989,5558 Pankratz Alley,20:41
+746,Relationship Status: It's Complicated,Comedy|Romance,1995,79 Boyd Road,12:20
+747,Woman on the Beach The,Drama|Film-Noir|Romance,2002,37 Valley Edge Place,3:33
+748,Nico Icon,Documentary,2010,4 Helena Park,3:14
+749,Teddy Bear (Mis),Comedy|Crime,1992,33 Novick Circle,14:45
+750,We Stand Alone Together,Documentary,1997,1 Continental Place,11:10
+751,Ankur (The Seedling),Drama,2009,81261 Scoville Terrace,15:23
+752,Sixpack (Pussikaljaelokuva),Comedy|Drama,1993,7 West Street,3:50
+753,Free Soul A,Drama,1990,0242 Lunder Street,1:30
+754,R.S.V.P. ,Comedy|Crime|Horror,2000,25731 Artisan Pass,2:04
+755,Making 'The New World',Documentary,2006,1911 Talisman Circle,19:33
+756,Beautiful Boy,Drama,2007,3281 Coolidge Center,9:58
+757,Revenge of the Nerds,Comedy,2004,87975 Daystar Lane,2:15
+758,Manic,Drama,1994,3586 Park Meadow Junction,2:04
+759,Apple Dumpling Gang The,Children|Comedy|Western,2010,16 Roth Plaza,4:16
+760,Bohemian Eyes (Boheemi elää - Matti Pellonpää),Documentary,2001,0 Moose Crossing,16:48
+761,Don,Action|Comedy|Crime|Drama|Musical|Thriller,2004,64860 Blue Bill Park Terrace,8:16
+762,Amish Grace,Drama,2009,40 Carpenter Road,9:00
+763,Terrible Kids (Enfants terribles Les) (Strange Ones The),Drama,1998,184 Gulseth Court,10:12
+764,Crime Spree,Comedy|Crime,2005,2 American Avenue,16:54
+765,Two Rode Together,Western,2003,348 Grasskamp Place,17:49
+766,Dark Blue,Action|Crime|Drama|Thriller,2003,0664 Harbort Lane,15:02
+767,Mía,Drama,2010,918 David Circle,13:13
+768,Gasoline (Benzina),Crime,2007,1 Derek Drive,2:12
+769,Shawshank Redemption The,Crime|Drama,1997,69 Clyde Gallagher Circle,21:02
+770,Night Strangler The,Crime|Horror|Mystery,2009,03 Riverside Parkway,1:26
+771,Hider in the House,Horror|Thriller,1995,9 Oriole Crossing,10:53
+772,Grey Gardens,Documentary,2003,33 Maple Wood Circle,0:44
+773,Port of Call (Hamnstad),Drama,2003,39 Raven Circle,3:36
+774,Hannibal,Horror|Thriller,2010,33705 Duke Parkway,3:57
+775,Stratton Story The,Drama|Romance,2005,39355 Utah Crossing,5:04
+776,Felix the Cat: The Movie,Adventure|Animation|Children|Fantasy|Musical|Sci-Fi,2012,13503 Kenwood Lane,17:13
+777,10 Questions for the Dalai Lama,Documentary,1985,6170 Golf Point,13:55
+778,Accattone,Drama,1995,49407 Sheridan Alley,9:38
+779,Sumo Do Sumo Don't (Shiko funjatta),Comedy,2004,1 Clarendon Drive,3:09
+780,K-19: The Widowmaker,Action|Adventure|Drama|Thriller,2004,5 North Trail,21:52
+781,Wedding Singer The,Comedy|Romance,1990,84 Grover Court,22:51
+782,Silent Partner,Action|Mystery|Thriller,2012,4578 Dayton Place,0:53
+783,One False Move,Crime|Drama|Film-Noir|Thriller,1992,91 Coolidge Hill,21:02
+784,Batman and Robin,Action|Adventure|Crime|Drama|Sci-Fi,1985,86513 Erie Court,16:13
+785,Gumshoe,Comedy|Crime|Drama|Mystery,2009,448 Charing Cross Road,9:22
+786,Shane,Drama|Western,2002,0582 Debra Avenue,5:12
+787,Blue Bird The,Children|Fantasy,2006,855 Summerview Point,13:19
+788,Farinelli: il castrato,Drama|Musical,2012,7612 High Crossing Way,4:45
+789,Trade,Crime|Drama|Thriller,1993,32 Continental Court,7:05
+790,Howling III: The Marsupials,Comedy|Horror,2012,515 Schlimgen Point,3:31
+791,Jackie Brown,Crime|Drama|Thriller,1999,2390 Rutledge Junction,14:05
+792,Last Temptation of Christ The,Drama,2007,5 Porter Way,20:12
+793,Flowers in the Attic,Drama|Mystery|Thriller,2008,595 Miller Way,2:36
+794,Chronicle of an Escape (Crónica de una fuga),Thriller,2004,3150 Southridge Park,15:13
+795,Naked Harbour (Vuosaari),Drama,1995,854 Stephen Alley,15:01
+796,Reggie Watts: Why Shit So Crazy?,Comedy,2006,52 Pleasure Trail,12:19
+797,Two Weeks Notice,Comedy|Romance,2008,25 Helena Alley,18:11
+798,Massacre at Central High,Drama|Horror|Thriller,2005,82982 Grim Lane,10:13
+799,Sorority Boys,Comedy,1995,893 1st Road,20:31
+800,Turn of Faith,Crime|Drama,2008,7138 Rusk Circle,6:20
+801,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite),Action,2007,604 Kennedy Lane,19:48
+802,Welcome to the Rileys,Drama,1992,35669 Fallview Drive,6:00
+803,Stuff and Dough (Marfa si banii),Drama,1998,09 Kim Pass,12:58
+804,Restraint,Drama|Thriller,2008,8267 Meadow Vale Park,1:42
+805,Pontiac Moon,Drama,2000,76 Mcbride Alley,21:08
+806,Demetrius and the Gladiators,Drama,2006,84 Mesta Way,0:35
+807,Spooner,Comedy|Drama,1999,3286 Oneill Trail,6:00
+808,Event Horizon,Horror|Sci-Fi|Thriller,1999,77484 Brentwood Trail,13:30
+809,Brothers Grimm The,Comedy|Fantasy|Horror|Thriller,2005,4 Veith Lane,7:43
+810,Ask Me Anything,Drama|Mystery|Thriller,2006,1709 Schurz Crossing,14:09
+811,Accidents Happen,Comedy|Drama,2007,569 Burning Wood Circle,6:45
+812,My Brother the Devil,Drama,2008,440 Aberg Parkway,5:55
+813,Naked City The,Crime|Drama|Film-Noir|Mystery,1994,6 Kingsford Way,6:51
+814,Sherlock Jr.,Comedy|Fantasy|Romance,2000,971 Sutteridge Park,4:37
+815,Stoker,Drama|Mystery|Thriller,1998,3 Shelley Crossing,15:30
+816,Love Lasts Three Years (L'amour dure trois ans),Comedy|Drama|Romance,2011,325 Arkansas Avenue,11:01
+817,Aziz Ansari: Buried Alive,Comedy,2012,2 Fremont Alley,11:10
+818,Bridegroom,Documentary,1994,59815 Coolidge Trail,16:24
+819,X-Men: The Last Stand,Action|Sci-Fi|Thriller,2007,725 Ohio Street,11:35
+820,Demons 2 (Dèmoni 2... l'incubo ritorna),Horror,2003,135 Leroy Pass,4:26
+821,Trials of Henry Kissinger The,Documentary,1995,2989 Ronald Regan Terrace,17:40
+822,Our Idiot Brother,Comedy,2007,2364 Buell Trail,13:52
+823,Grind,Action|Comedy,2009,5 2nd Alley,19:03
+824,Lilies of the Field,Drama,2009,4 Burning Wood Plaza,5:55
+825,El Robobo De La Jojoya,Comedy,2004,5 Dunning Junction,2:53
+826,Husk,Horror|Thriller,1994,590 Gulseth Trail,20:17
+827,Fanboys,Adventure|Comedy|Drama,1992,924 Atwood Way,5:13
+828,Black Water,Adventure|Drama|Horror|Thriller,1970,7 Rutledge Hill,18:33
+829,Beauty and the Beast: The Enchanted Christmas,Animation|Children|Fantasy|Musical,2010,6 Westridge Road,23:01
+830,Mean Girls 2,Comedy,1963,0557 Mitchell Lane,9:29
+831,Talk to Me,Drama,1992,4 Dayton Hill,1:59
+832,Grass: A Nation's Battle for Life,Documentary,1997,20 Barby Park,5:54
+833,Letter Never Sent (Neotpravlennoye pismo),Drama|Romance,1997,5951 Del Sol Court,15:52
+834,Being Julia,Comedy|Drama,2001,13 Northfield Terrace,20:49
+835,Suzhou River (Suzhou he),Drama|Romance,2006,0734 Service Center,9:27
+836,Manson,Documentary,1993,88118 Lighthouse Bay Place,5:55
+837,That Sinking Feeling,Comedy,2010,0047 Old Gate Circle,23:10
+838,Whiteboyz,Comedy|Drama,2003,14176 Fremont Junction,18:47
+839,Hound of the Baskervilles The,Crime|Horror|Mystery,2001,0935 Carey Circle,3:58
+840,Kika,Comedy|Drama,1991,4 Summerview Circle,14:13
+841,Looking for Lenny ,Documentary,1997,4048 Ridge Oak Street,5:48
+842,A Kind of America 2,Comedy,2000,3 Coolidge Point,9:04
+843,Forbidden Zone,Musical|Sci-Fi,1985,2 Comanche Parkway,3:41
+844,Burt's Buzz,Documentary,1996,161 Browning Hill,13:39
+845,Joneses The,Comedy|Drama,1996,26778 Main Parkway,9:20
+846,Jesus Christ Vampire Hunter,Action|Comedy|Horror|Musical,1991,03934 Sunbrook Street,10:42
+847,Betrayed The,Crime|Drama|Mystery|Thriller,1999,5272 Village Junction,12:42
+848,Mad Adventures of Rabbi Jacob the (Les Aventures de Rabbi Jacob),Comedy,2012,1 Dwight Way,13:52
+849,Ordinary Sinner,Drama|Romance,1994,81 Sunfield Trail,22:28
+850,Playmobil: The Secret of Pirate Island,Animation|Children,1964,756 Hagan Plaza,12:03
+851,Operación Cannabis,Action|Adventure|Comedy|Crime,2012,33 Badeau Junction,20:54
+852,Once Upon a Time in Queens,Comedy|Drama,1993,948 Grover Street,22:58
+853,Escape from Suburbia: Beyond the American Dream,Documentary,2004,7173 Sullivan Terrace,15:37
+854,Deceit,Sci-Fi,1988,25863 Dennis Lane,9:54
+855,Love Is the Devil,Drama,2009,17283 Holy Cross Avenue,4:10
+856,Yesterday Today and Tomorrow (Ieri oggi domani),Comedy,2002,280 Russell Avenue,8:14
+857,Harry Potter and the Chamber of Secrets,Adventure|Fantasy,2004,4063 Lakewood Parkway,0:47
+858,Ugly Truth The,Comedy|Drama|Romance,1993,157 Killdeer Avenue,12:08
+859,Double Vision (Shuang tong),Horror|Mystery|Thriller,1996,38 Green Ridge Center,21:18
+860,Anna Lucasta,Drama,1994,33 Farmco Place,20:07
+861,Aberdeen,Drama,2008,5 Fallview Place,17:21
+862,Runaway Jury,Drama|Thriller,2012,403 Bultman Hill,6:47
+863,Grave Encounters,Horror,1987,8094 Maywood Lane,11:10
+864,Synthetic Pleasures,Documentary,2011,21204 Oriole Circle,22:37
+865,Miracle Run,Drama,1999,0 Rigney Alley,3:51
+866,Grand Masti,Comedy|Drama|Romance,2006,93340 Surrey Center,14:53
+867,Sun on the Horizon,Documentary,2000,48 Dryden Hill,4:30
+868,Humpday,Comedy,1999,13919 Reinke Parkway,18:59
+869,Liliom,Drama|Fantasy,1993,2400 Namekagon Point,20:57
+870,Beau Pere (a.k.a. Stepfather) (Beau-père),Drama,2000,795 Mcbride Street,10:15
+871,Mega Python vs. Gatoroid,Action|Horror|Sci-Fi,2009,7 Brickson Park Circle,17:35
+872,Wonder Bar,Comedy|Crime|Drama|Musical|Romance,2009,4 Rutledge Avenue,11:11
+873,Intolerable Cruelty,Comedy|Romance,2003,1 Charing Cross Crossing,15:59
+874,Brooklyn Rules,Crime|Drama|Romance,2001,7976 Mcbride Avenue,10:33
+875,El chocolate del loro,Comedy,2010,5638 Pond Terrace,7:17
+876,8 ½ Women (a.k.a. 8 1/2 Women) (a.k.a. Eight and a Half Women),Comedy,2008,02 Norway Maple Road,2:34
+877,Breaking the Surface: The Greg Louganis Story,Drama,2007,2546 Mitchell Plaza,4:22
+878,Insect Woman The (Nippon konchûki),Drama,1980,59 Elmside Alley,6:08
+879,Strip Search,Drama,2012,58 Beilfuss Court,21:43
+880,Lucky Jordan,Comedy|Crime|Drama,2009,02236 Mcbride Way,6:09
+881,Story of Three Loves The,Drama|Musical|Romance,1997,685 Fisk Road,0:13
+882,Stander,Action|Crime|Drama,1992,423 Scott Parkway,23:51
+883,Unconditional,Drama,2007,8 Garrison Circle,23:42
+884,Boy Who Could Fly The,Drama|Fantasy,2010,7 Lunder Park,11:25
+885,Shadows and Fog,Comedy|Drama|Mystery|Thriller,1995,252 Di Loreto Way,6:23
+886,Havana,Drama,1978,41950 Village Park,23:14
+887,Wind Rises The (Kaze tachinu),Animation|Drama|Romance,2006,1983 Steensland Terrace,20:57
+888,Free Willy,Adventure|Children|Drama,2002,2 Corry Trail,11:13
+889,Baytown Outlaws The,Action|Comedy|Crime,1994,46 Express Hill,0:55
+890,Clubbed,Action|Crime|Drama,2004,4 Florence Park,20:40
+891,Way The,Drama,2002,9707 Donald Plaza,4:06
+892,First Position,Documentary,2007,93881 Monica Hill,4:40
+893,On My Way (Elle s'en va),Comedy|Drama,1993,70 Walton Court,4:51
+894,Bad Boy (Story of Danny Lester The),Drama,2003,6 Goodland Crossing,9:48
+895,Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro),Action|Crime|Drama,2004,26943 Emmet Hill,6:29
+896,Emperor Waltz The,Comedy|Musical|Romance,2007,9 Northridge Pass,0:37
+897,La cravate,(no genres listed),1996,83 Center Plaza,3:41
+898,Dream for an Insomniac,Drama|Romance,2008,11312 Weeping Birch Point,14:00
+899,Kids for Cash,Documentary|Thriller,2001,95819 Golf Pass,9:26
+900,Clean and Sober,Drama,2010,13495 Redwing Center,7:56
+901,Winslow Boy The,Drama,2012,6 Schlimgen Point,4:36
+902,Opera Jawa,Musical,2010,96 Magdeline Circle,13:25
+903,Club Paradise,Comedy,2007,52465 Fairfield Circle,19:22
+904,Whores' Glory,Documentary,1995,6800 Milwaukee Place,15:30
+905,Safety Patrol,(no genres listed),2011,730 Debra Place,20:59
+906,Deadly Advice,Comedy|Drama,2005,85 Clyde Gallagher Lane,22:16
+907,Lawless Heart The,Comedy|Drama,2005,87 Texas Trail,23:58
+908,Life Without Dick,Comedy|Crime|Romance,1993,1863 Arizona Avenue,12:31
+909,Creation of the Humanoids The,Sci-Fi,1992,58 Oak Trail,15:52
+910,Carnage,Comedy|Drama,1995,75862 Nobel Parkway,21:46
+911,Daylight,Action|Adventure|Drama|Thriller,2006,75366 Prentice Point,3:15
+912,And While We Were Here,Drama,2008,6 Homewood Junction,11:09
+913,Sacrifice The (Offret - Sacraficatio),Drama,2002,13293 Oak Valley Alley,16:52
+914,Satyricon,Drama,2000,4937 Reindahl Alley,1:27
+915,Fury The,Horror,2009,9 1st Plaza,16:48
+916,13 Lakes,Documentary,2009,80 Rutledge Road,7:50
+917,Touch the Top of the World,Drama,2001,3 Northwestern Drive,15:02
+918,Story of a Love Affair (Cronaca di un amore),Crime|Drama|Romance,1996,81 Colorado Parkway,20:43
+919,French Twist (Gazon maudit),Comedy|Romance,2001,08264 Bartelt Trail,2:49
+920,Woman Chaser The,Comedy,2012,50907 Vahlen Center,19:08
+921,Üvegtigris,Comedy,1983,84947 Bowman Hill,14:08
+922,Matrix Reloaded The,Action|Adventure|Sci-Fi|Thriller|IMAX,2008,43550 Bartillon Alley,21:22
+923,Daddy Nostalgia (Daddy Nostalgie),Drama,2001,70 Springs Junction,4:33
+924,Harmful Insect (Gaichu),Drama,2001,95 Rowland Street,10:28
+925,Mon Oncle Antoine,Drama,1993,45571 Anthes Hill,9:54
+926,Little Girl Who Lives Down the Lane The,Drama|Mystery|Thriller,2012,528 Maple Alley,9:57
+927,The Man Without a Map,Mystery,1990,0719 Cambridge Crossing,8:23
+928,Guncrazy,Crime|Drama|Thriller,2006,9 Cherokee Point,8:22
+929,Hum Aapke Hain Koun...!,Comedy|Drama|Musical,2006,7 Homewood Trail,14:56
+930,Between Two Worlds,Action|Adventure|Drama|Fantasy|Mystery,2000,35 Charing Cross Circle,2:44
+931,Best Worst Movie,Documentary,2008,0023 Killdeer Place,17:41
+932,America America,Drama,2004,5858 Susan Pass,15:37
+933,Brothers of the Head,Drama,2010,5 Charing Cross Trail,12:41
+934,Padre padrone,Drama,2008,1 Graceland Plaza,21:06
+935,Off the Menu: The Last Days of Chasen's,Documentary,2006,36835 Clove Terrace,19:19
+936,Den sommeren jeg fylte 15,Drama,2008,2855 Drewry Road,20:44
+937,9/11,Documentary,1992,239 Bartillon Road,9:53
+938,Girl Who Kicked the Hornet's Nest The (Luftslottet som sprängdes),Action|Crime|Mystery,2007,63924 Waubesa Center,13:19
+939,Alyce Kills,Horror|Thriller,2006,37970 Drewry Parkway,11:21
+940,White Darkness The,Documentary,2006,8 Mcbride Place,1:22
+941,On a marché sur Bangkok,Comedy,2011,4 Norway Maple Center,6:45
+942,Superman Unbound,Action|Adventure|Animation,1994,29 Cody Alley,13:17
+943,Violent Cop (Sono otoko kyôbô ni tsuki),Action|Crime|Drama|Thriller,2009,5 Leroy Avenue,18:26
+944,Morphia (Morfiy),Drama,2004,631 Clyde Gallagher Terrace,20:26
+945,Truth The ,Thriller,2003,8787 Upham Way,7:26
+946,Alila,Drama,2002,856 Bunker Hill Crossing,20:55
+947,Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch),Action|Thriller|War,1988,7 Brown Hill,6:58
+948,I'm Going Home (Je rentre à la maison),Comedy|Drama,2007,48291 Butternut Terrace,8:33
+949,Small Town Girl,Musical|Romance,1998,6 Mayfield Center,5:06
+950,Life After Beth,Comedy|Horror|Romance,2003,0 Doe Crossing Parkway,7:25
+951,Shake It (En kort en lang),Comedy|Drama|Romance,2009,2 Pennsylvania Street,2:33
+952,2010: The Year We Make Contact,Sci-Fi,2009,62 Rieder Lane,14:04
+953,Holidaze,Children|Drama|Romance,1996,1 Hoepker Point,22:40
+954,Control Room,Documentary|War,1988,04948 Burning Wood Drive,2:46
+955,Bitter Tea of General Yen The,Drama|Romance|War,2003,3 Farragut Place,13:10
+956,The Adventures of Tartu,Drama|Romance|Thriller|War,2002,24 Memorial Court,11:32
+957,My Way,Drama,2001,6751 Lillian Alley,6:25
+958,For Pete's Sake,Comedy,1995,702 Holmberg Hill,17:55
+959,Human Touch,Drama,2000,99 Dexter Center,10:46
+960,Green Zone,Action|Drama|Thriller|War,1997,9 Crowley Parkway,2:34
+961,Fast Lane,Action|Drama,2008,71929 Magdeline Plaza,16:28
+962,Do You Like Hitchcock? (Ti piace Hitchcock?),Horror|Mystery|Thriller,1976,7 Dorton Crossing,23:39
+963,Kissing Jessica Stein,Comedy|Romance,1996,50892 Dexter Center,11:07
+964,Extremities,Drama|Thriller,1988,42 Londonderry Junction,10:21
+965,Wedding Gift The,Drama|Romance,1964,61 Pawling Center,4:23
+966,Over the Brooklyn Bridge,Comedy,2005,4 Killdeer Place,13:04
+967,Chronicles (Crónicas),Crime|Drama,1995,11 Burning Wood Court,1:59
+968,97 Percent True,Documentary,2009,07739 Glendale Drive,2:11
+969,Witches The (Le streghe),Comedy|Drama|Romance,2009,4 Shoshone Pass,3:47
+970,Come Sweet Death (Komm süsser Tod),Comedy|Mystery|Thriller,2008,8 Arapahoe Lane,23:32
+971,Godzilla Against MechaGodzilla (Gojira tai Mekagojira),Action|Sci-Fi|Thriller,1986,7386 Kings Alley,13:14
+972,Book of Eli The,Action|Adventure|Drama,2006,435 Kennedy Court,5:12
+973,Man with the Gun,Western,1994,01 Briar Crest Way,18:05
+974,Hidden Agenda,Drama|Thriller,2009,116 Barby Avenue,23:57
+975,Madame Satã,Drama,2010,12210 Arrowood Lane,17:11
+976,Tyler Perry's Madea's Family Reunion,Comedy|Drama,2000,11372 Golf Parkway,7:32
+977,Equus,Drama|Mystery,2006,6484 Kipling Parkway,10:41
+978,Backwood Philosopher (Havukka-ahon ajattelija),Comedy|Drama,1987,18060 Grayhawk Pass,21:20
+979,Flintstone Kids' Just Say No Special The,Animation|Children,1998,285 Jenifer Parkway,16:15
+980,Changing Times (Les temps qui changent),Drama|Romance,2006,50 Sloan Circle,1:35
+981,Donkey Skin (Peau d'âne),Children|Drama|Fantasy|Musical|Romance,2011,8987 Florence Place,22:32
+982,Devil Doll The,Horror|Sci-Fi,2010,55874 Graedel Terrace,4:12
+983,Five and Ten,Romance,2002,09 Vera Circle,23:50
+984,Family Tree The,Comedy|Drama,2012,68875 Killdeer Drive,23:11
+985,Zorn's Lemma,Drama,2003,13 Scott Park,20:36
+986,Four Heads Are Better Than One (Un homme de tête),Fantasy,2009,55 Commercial Crossing,5:09
+987,Dead Men Tell,Comedy|Crime|Drama|Mystery|Thriller,1988,1 6th Street,12:59
+988,Fighter The,Drama,1994,04127 Loomis Parkway,17:27
+989,7 Dwarves: The Forest Is Not Enough,Comedy,2008,5 Independence Court,17:20
+990,Rainmaker The,Comedy|Romance|Thriller|Western,1998,63 Pawling Street,10:28
+991,Charlie Chan in London,Drama|Mystery,1999,7 Weeping Birch Hill,7:41
+992,Harvie Krumpet,Animation|Comedy|Drama,1995,32689 Marquette Center,15:07
+993,Bluebeard,Film-Noir|Horror,1994,2 Oak Valley Terrace,20:44
+994,Hunt vs Lauda: F1's Greatest Racing Rivals,Documentary,2008,6176 Little Fleur Plaza,14:50
+995,Thunder Soul,Documentary,1998,5 Northfield Street,3:27
+996,Cat Concerto The,Animation|Children|Comedy,2004,593 Northridge Pass,1:54
+997,Do You Like Hitchcock? (Ti piace Hitchcock?),Horror|Mystery|Thriller,2006,10580 Johnson Parkway,11:43
+998,Yella,Drama|Romance|Thriller,2013,62 Main Way,5:30
+999,Kissing a Fool,Comedy|Romance,1992,7514 Maple Wood Drive,21:29
+1000,9,Adventure|Animation|Sci-Fi,1999,764 Susan Park,9:32
